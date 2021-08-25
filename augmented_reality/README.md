@@ -2,9 +2,5 @@
 
 This directory contains code from a homework assignment in which I implemented an augmented reality (AR) application using planar homographies. A homography is effectively a mapping between two projective spaces that correspond to two different camera views of a point on a plane. The idea surrounding this assignment was to map a video onto a particular plane in a moving frame. I have ommitted the data associated with generating the result, but the following was generated using the ```ar.py``` file.
 
-```html
-<video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="result.mp4" type="video/mp4" />
-</video>
-```
+<video src="result.mp4"></video>
 
